@@ -19,6 +19,7 @@ We can see from the preciptation plot that the precipitation is highest during A
 ![precipoverivew](https://user-images.githubusercontent.com/86981530/142776833-2e5b96a2-1bf3-4aea-82fb-f4ebaa337df4.PNG)
 
 ### July and December Data
+We can see from the temperature comparison between July and December, that December is slightly cooler on average. This is relatively small difference though.
 
 ![juneavg](https://user-images.githubusercontent.com/86981530/142777070-0f8cc9ce-2ddc-45cd-a8a5-e8ace0642bd2.PNG)
 ![Decemberavg](https://user-images.githubusercontent.com/86981530/142777079-2a0720be-e6a6-463d-899e-787c2dc85e52.PNG)
