@@ -32,5 +32,7 @@ The data analysis team would recommend updating the data set and rerunnning the 
 
 The data analysis team would also recommend the following analyses:
 - Comparison of precipitation 
-  - Bar graph showing each year's precipitation per month to find any trends. Specifically looking at June and December.
-- 
+  - Bar graph showing each year's precipitation per month to find any yearly trends. Specifically looking at June and December.
+- Monthly anverage temperature comparision
+  - Graph to show the average temperature per month to find yearly trends. Specifically looking at June and December.
+- How many surf shops and ice cream shops are on the island to determine competition.
