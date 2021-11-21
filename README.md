@@ -19,10 +19,18 @@ We can see from the preciptation plot that the precipitation is highest during A
 ![precipoverivew](https://user-images.githubusercontent.com/86981530/142776833-2e5b96a2-1bf3-4aea-82fb-f4ebaa337df4.PNG)
 
 ### July and December Data
-We can see from the temperature comparison between July and December, that December is slightly cooler on average. This is relatively small difference though.
+We can see from the temperature comparison between July and December, that December is slightly cooler on average. This is relatively small difference though. There is on average only about a 4 degree temperature difference between the winter months and the summer months.
 
 ![juneavg](https://user-images.githubusercontent.com/86981530/142777070-0f8cc9ce-2ddc-45cd-a8a5-e8ace0642bd2.PNG)
 ![Decemberavg](https://user-images.githubusercontent.com/86981530/142777079-2a0720be-e6a6-463d-899e-787c2dc85e52.PNG)
 
 
 ## Summary
+The data here shows that opening up a surf and ice cream shop based on the client's evaluations would be a good choice on Oahu. 
+
+The data analysis team would recommend updating the data set and rerunnning the evaluation criteria in order to take into account and major climate changes within the last 5 years. 
+
+The data analysis team would also recommend the following analyses:
+- Comparison of precipitation 
+- - Bar graph showing each year's precipitation per month to find any trends. Specifically looking at June and December.
+- Temperature 
